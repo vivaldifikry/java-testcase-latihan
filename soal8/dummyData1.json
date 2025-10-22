@@ -1,0 +1,19 @@
+{
+  "data" : [
+    {
+      "sku": "SKU-98765432",
+      "productName": "Wireless Mouse",
+      "quantityInStock": 150,
+      "price": 29.99,
+      "category": "Electronics"
+    },
+    {
+      "sku": "SKU-12345678",
+      "productName": "Mechanical Keyboard",
+      "quantityInStock": 10,
+      "price": 79.99,
+      "category": "Electronics"
+    }
+  ]
+}
+
